@@ -1,8 +1,4 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
 
 # Hi, I'm Oluwajuwonlo! 👋
 
@@ -12,8 +8,6 @@ A design minded front-end developer from Nigeria
 I'm a Front-End Developer from Nigeria
 
 I'm a hardworking individual who is passionate about learning and developing my skills at every given opportunity
-
-## Other Common Github Profile Sections
 
 🧠 I'm currently learning Javascript and react
 
